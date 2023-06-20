@@ -1,5 +1,5 @@
 # password-generator
-password generator using python
+<font color="red">password generator using python</font>
 
 $ python3 passgenerate.py
 
